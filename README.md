@@ -1,4 +1,4 @@
-![Screenshot]([employeeList.png](https://github.com/EYKonnikov/list-employees/blob/main/src/assets/employeeList.png))
+![Screenshot](https://github.com/EYKonnikov/list-employees/blob/main/src/assets/employeeList.png)
 
 
 ## Project setup
