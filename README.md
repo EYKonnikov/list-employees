@@ -1,3 +1,6 @@
+![Screenshot](employeeList.png)
+
+
 ## Project setup
 ```
 npm install
