@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/EYKonnikov/list-employees/blob/main/src/assets/employeeList.png" width="350" title="">
+  <img src="https://github.com/EYKonnikov/list-employees/blob/main/src/assets/employeeList.png" width="840" title="">
 </p>
 
 ## Project setup
