@@ -1,5 +1,3 @@
-# lard
-
 ## Project setup
 ```
 npm install
