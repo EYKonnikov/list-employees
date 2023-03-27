@@ -1,3 +1,6 @@
+<h3>Используемый стек технологий:</h3>
+<p>Vuetify 3 + Vue 3 JS (setup)<p>
+
 
 <p align="center">
   <img src="https://github.com/EYKonnikov/list-employees/blob/main/src/assets/employeeList.png" width="840" title="">
