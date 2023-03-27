@@ -1,5 +1,5 @@
 <h3>Используемый стек технологий:</h3>
-<p>Vuetify 3 + Vue 3 JS (setup)<p>
+<p>Vuetify 3 + Vue 3 JS (setup) + Vuex<p>
 
 
 <p align="center">
